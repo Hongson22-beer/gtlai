@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:pink;
+}
+
+header {
+    background-color:yellow;
+    color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 18pt;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}
+a {
+    color: #ff00d0;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+}
+a:hover {
+    text-decoration: underline;
+}
+p {
+    font-style: italic;
+    color:#ff00d0;
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+}
